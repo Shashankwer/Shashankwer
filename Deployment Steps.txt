@@ -1,0 +1,10 @@
+1. Ensure that the setupvars.bat is initialized in command prompt/terminal https://docs.openvinotoolkit.org/latest/_docs_IE_DG_Samples_Overview.html
+2. navigate to the directory
+3. run the program saimese_ncs.py using python3
+to run on cpu following command can be used: 
+python saimese_ncs.py
+to run on GPU 
+python saimese_ncs.py -d GPU
+to run on MYRIAD
+python saimese_ncs.py -d MYRIAD
+

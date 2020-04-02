@@ -10,9 +10,8 @@ We explore this using Viola jones face reconginition combined with the siamese n
 
 ## Code for training Siamese Neural Network:
 
-```sh
+
 Training(https://github.com/Shashankwer/SiameseNCS/blob/master/Scripts/Siamese_NCS.ipynb)
-```
 
 ## Deployment
 

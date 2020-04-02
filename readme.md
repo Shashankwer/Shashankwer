@@ -11,20 +11,20 @@ We explore this using Viola jones face reconginition combined with the siamese n
 ## Code for training Siamese Neural Network:
 
 
-Training(https://github.com/Shashankwer/SiameseNCS/blob/master/Scripts/Siamese_NCS.ipynb)
+[Training](https://github.com/Shashankwer/SiameseNCS/blob/master/Scripts/Siamese_NCS.ipynb)
 
 ## Deployment
 
-Refer to instructions on deployment.txt(https://github.com/Shashankwer/SiameseNCS/blob/master/Deployment%20Steps.txt)
+Refer to instructions on [deployment.txt](https://github.com/Shashankwer/SiameseNCS/blob/master/Deployment%20Steps.txt)
 
 ##Architecture description
 
-Reference to the pdf(https://github.com/Shashankwer/SiameseNCS/blob/master/NCS_Report.pdf)
+Reference to the [pdf](https://github.com/Shashankwer/SiameseNCS/blob/master/NCS_Report.pdf)
  
 ### Results on CPU
 
-Refer to file(https://github.com/Shashankwer/SiameseNCS/blob/master/output_cpu.mp4)
+Refer to [file](https://github.com/Shashankwer/SiameseNCS/blob/master/output_cpu.mp4)
 
 ### Results on Movidius
 
-Refer to file(https://github.com/Shashankwer/SiameseNCS/blob/master/output_myriad.mp4)
+Refer to [file](https://github.com/Shashankwer/SiameseNCS/blob/master/output_myriad.mp4)

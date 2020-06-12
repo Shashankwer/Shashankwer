@@ -17,7 +17,7 @@ We explore this using Viola jones face reconginition combined with the siamese n
 
 Refer to instructions on [deployment.txt](https://github.com/Shashankwer/SiameseNCS/blob/master/Deployment%20Steps.txt)
 
-##Architecture description
+## Architecture description
 
 Reference to the [pdf](https://github.com/Shashankwer/SiameseNCS/blob/master/NCS_Report.pdf)
  

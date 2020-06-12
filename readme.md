@@ -1,4 +1,4 @@
-##About
+## About
 
 This is a project for the Deploying a machine learning model on edge devices such as intel's neural compute stick. We tried deploying a siamese neural network for face frontal face recognition. 
 
